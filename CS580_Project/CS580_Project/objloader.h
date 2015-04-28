@@ -1,3 +1,8 @@
+/*
+* This file is provided by thecplusplusguy which is under LGPL
+* http://www.youtube.com/user/thecplusplusguy
+*/
+
 #include "windows.h"
 #include <SDL/SDL.h>
 #include <SDL/SDL_image.h>

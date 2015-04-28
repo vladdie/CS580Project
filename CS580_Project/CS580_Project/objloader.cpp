@@ -1,3 +1,8 @@
+/* 
+* This file is provided by thecplusplusguy which is under LGPL
+* http://www.youtube.com/user/thecplusplusguy
+*/
+
 #include "objloader.h"
 
 coordinate::coordinate(float a, float b, float c)

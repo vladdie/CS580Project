@@ -15,7 +15,12 @@
     <ClCompile Include="objloader.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="main.h" />
     <ClInclude Include="objloader.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fragment.frag" />
+    <None Include="vertex.vs" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{B3C133FC-EC6F-401B-A462-E8F748F58DCA}</ProjectGuid>
